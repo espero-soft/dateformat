@@ -1,0 +1,33 @@
+{
+    "name": "espero-soft/dateformat",
+    "description": "This Php library will help you format your dates in number of years, months, days, hours, minutes and seconds.",
+    "type": "library",
+    "license": "MIT",
+    "config": {
+        "secure-http": false
+    },
+    "autoload": {
+        "psr-4": {
+            "EsperoSoft\\": "src/"
+        }
+    },
+    "keywords": [
+        "date",
+        "dateformat",
+        "moment",
+        "espero-soft",
+        "mudey",
+        "espero",
+        "akpoli"
+    ],
+    "authors": [
+        {
+            "name": "Espero-Soft Informatiques",
+            "email": "contact@espero-soft.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.1"
+    }
+}
